@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --roxo-acizentado: #747176;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #eed024e2;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #434443;
 }
 
 
@@ -24,13 +24,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #161616;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('Gossip_Girl_Thailand_\(logo\).png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--roxo-acizentado);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -70,7 +70,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--alto-contraste-fundo);
 }
 
 
@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('Gossip_Girl_\(2021\)_logo.svg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('Cigarette_Gossip.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #434141;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #b1aaa7;
     border: none;
     font-weight: bold;
 }
@@ -188,11 +188,11 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #Gossip-Girl {
     background: none;
 }
 
-.alto-contraste #galeria {
+.alto-contraste #informações {
     background-color: var(--alto-contraste-fundo);
 }
 .alto-contraste .fundo-galeria {

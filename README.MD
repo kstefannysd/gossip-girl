@@ -1,6 +1,6 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre Gossip Girl
 # Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+Fofocas da cidade de New York.
 ## Recursos de acessibilidade
 - Atributos aria
 - alt
